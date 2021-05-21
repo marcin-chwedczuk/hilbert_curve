@@ -1,10 +1,12 @@
 # One file JS program that draws Hilbert curve iteratively
 
-Clone this repository and open `index.html` to run the program.
+Clone this repository and open `index.html` in any browser to run the program.
+
+Read [my blog post](http://blog.marcinchwedczuk.pl/iterative-algorithm-for-drawing-hilbert-curve) if want to understand how it works.
 
 ![hilbert curve](docs/demo.png)
 
-Program uses this function to draw Hilbert curve in iterative way:
+Program uses this function to draw Hilbert curve iteratively:
 ```js
 
 /* N - size of hilbert curve,
